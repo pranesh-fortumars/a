@@ -685,7 +685,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranesh-fortumars&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranesh-fortumars&theme=github_dark&v=1"/>
 
 </div>
 
@@ -695,9 +695,9 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranesh-fortumars&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranesh-fortumars&theme=github_dark&v=1"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranesh-fortumars&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranesh-fortumars&theme=github_dark&v=1"/>
 
 </div>
 
@@ -707,9 +707,9 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranesh-fortumars&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranesh-fortumars&theme=github_dark&v=1"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranesh-fortumars&theme=github_dark&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranesh-fortumars&theme=github_dark&utcOffset=5.5&v=1"/>
 
 </div>
 
