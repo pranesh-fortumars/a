@@ -811,56 +811,33 @@ Full Stack     █████████████████████�
 
 ---
 
-## 🗺️ Learning Roadmap
-
+<details>
+<summary><b>🗺️ Learning Roadmap</b></summary>
+<br>
 <div align="center">
-
-| 🎯 Goal | Progress |
-|----------|:-------:|
-| Artificial Intelligence | 🟩🟩🟩🟩🟩 |
-| Machine Learning | 🟩🟩🟩🟩⬜ |
-| Deep Learning | 🟩🟩🟩🟩⬜ |
-| Cybersecurity | 🟩🟩🟩🟩🟩 |
-| Blockchain | 🟩🟩🟩🟩⬜ |
-| Cloud Computing | 🟩🟩🟩🟨⬜ |
-| Kubernetes | 🟩🟩🟨⬜⬜ |
-| Agentic AI | 🟩🟨⬜⬜⬜ |
-
+<img src="https://img.shields.io/badge/Artificial_Intelligence-100%25-00C853?style=for-the-badge" /> <img src="https://img.shields.io/badge/Machine_Learning-80%25-00BFA5?style=for-the-badge" /> <img src="https://img.shields.io/badge/Deep_Learning-80%25-00897B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cybersecurity-100%25-00695C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Blockchain-80%25-1E88E5?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloud_Computing-70%25-E53935?style=for-the-badge" /> <img src="https://img.shields.io/badge/Kubernetes-50%25-8E24AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agentic_AI-30%25-FF9800?style=for-the-badge" />
 </div>
+</details>
 
 ---
 
-## 🔬 Research Interests
-
-## 🔬 Research Areas
-
-- 🤖 Artificial Intelligence
-- 🔐 Cybersecurity
-- ⛓ Blockchain Security
-- ☁ Cloud Computing
-- 🧠 Machine Learning
-- 👁 Computer Vision
-- 🔒 Cryptography
-- 🚀 Secure Software Engineering
-- 🌐 Enterprise Application Architecture
-- 🤝 AI + Cybersecurity Integration
+<details>
+<summary><b>🔬 Research Areas</b></summary>
+<br>
+<div align="center">
+<img src="https://img.shields.io/badge/-Artificial_Intelligence-1E88E5?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Cybersecurity-E53935?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Blockchain_Security-8E24AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Cloud_Computing-FF9800?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Machine_Learning-00E676?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Computer_Vision-3949AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Cryptography-FF4081?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Secure_Software_Engineering-00BCD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Enterprise_Application_Architecture-FF7043?style=for-the-badge" /> <img src="https://img.shields.io/badge/-AI_%2B_Cybersecurity_Integration-E040FB?style=for-the-badge" />
+</div>
+</details>
 
 ---
 
-## ❤️ Open Source
-
-## ❤️ Open Source Interests
-
-I enjoy contributing to projects related to
-
-- Enterprise Software
-- Artificial Intelligence
-- Cybersecurity
-- Blockchain
-- DevOps
-- Developer Productivity
-- Open Source Tooling
-- Educational Technology
+<details>
+<summary><b>❤️ Open Source Interests</b></summary>
+<br>
+<div align="center">
+<img src="https://img.shields.io/badge/-Enterprise_Software-00C853?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Artificial_Intelligence-00BFA5?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Cybersecurity-00897B?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Blockchain-00695C?style=for-the-badge" /> <img src="https://img.shields.io/badge/-DevOps-1E88E5?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Developer_Productivity-E53935?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Open_Source_Tooling-8E24AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Educational_Technology-FF9800?style=for-the-badge" />
+</div>
+</details>
 
 ---
 
