@@ -815,7 +815,18 @@ Full Stack     █████████████████████�
 <summary><b>🗺️ Learning Roadmap</b></summary>
 <br>
 <div align="center">
-<img src="https://img.shields.io/badge/Artificial_Intelligence-100%25-00C853?style=for-the-badge" /> <img src="https://img.shields.io/badge/Machine_Learning-80%25-00BFA5?style=for-the-badge" /> <img src="https://img.shields.io/badge/Deep_Learning-80%25-00897B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cybersecurity-100%25-00695C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Blockchain-80%25-1E88E5?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloud_Computing-70%25-E53935?style=for-the-badge" /> <img src="https://img.shields.io/badge/Kubernetes-50%25-8E24AA?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agentic_AI-30%25-FF9800?style=for-the-badge" />
+
+| 🎯 Goal | Progress |
+|----------|:-------:|
+| Artificial Intelligence | 🟩🟩🟩🟩🟩 |
+| Machine Learning | 🟩🟩🟩🟩⬜ |
+| Deep Learning | 🟩🟩🟩🟩⬜ |
+| Cybersecurity | 🟩🟩🟩🟩🟩 |
+| Blockchain | 🟩🟩🟩🟩⬜ |
+| Cloud Computing | 🟩🟩🟩🟨⬜ |
+| Kubernetes | 🟩🟩🟨⬜⬜ |
+| Agentic AI | 🟩🟨⬜⬜⬜ |
+
 </div>
 </details>
 
