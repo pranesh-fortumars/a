@@ -57,9 +57,13 @@ With experience leading cross-functional teams and delivering production-ready s
 </div>
 
 ### 💼 Open To
-<div>
-<img src="https://img.shields.io/badge/Role-Software_Engineer-1E88E5?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/Role-AI_Engineer-E53935?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/Role-Security_Engineer-8E24AA?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/Role-Backend_Engineer-FF9800?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/Role-Full_Stack_Engineer-00E676?style=for-the-badge&labelColor=000000" />
-</div>
+
+<img src="https://img.shields.io/badge/Open_To-Roles-000000?style=for-the-badge" />
+<br> ├── <img src="https://img.shields.io/badge/-Software_Engineer-1E88E5?style=for-the-badge" />
+<br> ├── <img src="https://img.shields.io/badge/-AI_Engineer-E53935?style=for-the-badge" />
+<br> ├── <img src="https://img.shields.io/badge/-Security_Engineer-8E24AA?style=for-the-badge" />
+<br> ├── <img src="https://img.shields.io/badge/-Backend_Engineer-FF9800?style=for-the-badge" />
+<br> └── <img src="https://img.shields.io/badge/-Full_Stack_Engineer-00E676?style=for-the-badge" />
 
 ### 🎯 Current Mission
 > *Building scalable enterprise software while integrating Artificial Intelligence, Cloud Computing, Blockchain, and Cybersecurity into modern business solutions.*
