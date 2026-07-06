@@ -607,9 +607,9 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranesh-fortumars&show_icons=true&theme=transparent&hide_border=true&title_color=00C853&icon_color=00BFA5&text_color=EAF7F1&bg_color=00000000&ring_color=00C853"/>
+<img width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Analytics"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-fortumars&theme=transparent&hide_border=true&ring=00C853&fire=00BFA5&currStreakLabel=00C853&sideLabels=EAF7F1&dates=7FB8A8"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-fortumars&theme=transparent&hide_border=true&ring=00C853&fire=00BFA5&currStreakLabel=00C853&sideLabels=EAF7F1&dates=7FB8A8&v=1"/>
 
 </div>
 
@@ -619,7 +619,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranesh-fortumars&layout=compact&langs_count=10&hide_border=true&theme=transparent&title_color=00C853&text_color=EAF7F1&bg_color=00000000"/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,go,cpp,c,cs,php,html,css,react,nodejs,docker,aws,kubernetes&perline=8" alt="Top Technical Languages"/>
 
 </div>
 
@@ -647,7 +647,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pranesh-fortumars&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,apple,android,git,github,bash,powershell,vim,vscode&perline=6" alt="Technical Arsenal"/>
 
 </div>
 
