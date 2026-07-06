@@ -1140,45 +1140,9 @@ Legend:
 </div>
 
 <!-- END PART 5 -->
-## ⚙️ GitHub Actions
 
 
-## 📊 Metrics Workflow
-
-Create
-
-```
-.github/workflows/metrics.yml
-```
-
-```yaml
-name: Metrics
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: pranesh-fortumars
-          template: classic
-          base: header,activity,repositories
-          plugin_languages: yes
-          plugin_lines: yes
-          plugin_isocalendar: yes
-          plugin_followup: yes
-          plugin_achievements: yes
-```
-
----
-
-
+<!-- 
 ## ⏳ WakaTime Workflow
 
 ```
@@ -1201,6 +1165,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 ```
+-->
 
 ---
 
