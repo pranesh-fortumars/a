@@ -1196,34 +1196,38 @@ Other         ██ 4%
 
 ---
 
-## 📚 Reading List
-
 ## 📚 Currently Reading
 
-- Clean Architecture — Robert C. Martin
-- Designing Data-Intensive Applications — Martin Kleppmann
-- The Pragmatic Programmer
-- Building Microservices
-- Clean Code
-- Artificial Intelligence: A Modern Approach
-- Web Application Hacker's Handbook
+<div align="center">
+
+<img src="https://img.shields.io/badge/Clean_Architecture-Robert_C._Martin-000000?style=for-the-badge&logo=goodreads&logoColor=00C853"/>
+<img src="https://img.shields.io/badge/Designing_Data_Intensive_Apps-Martin_Kleppmann-000000?style=for-the-badge&logo=goodreads&logoColor=00BFA5"/>
+<img src="https://img.shields.io/badge/The_Pragmatic_Programmer-Andrew_Hunt-000000?style=for-the-badge&logo=goodreads&logoColor=00897B"/>
+<img src="https://img.shields.io/badge/Building_Microservices-Sam_Newman-000000?style=for-the-badge&logo=goodreads&logoColor=00695C"/>
+<img src="https://img.shields.io/badge/Clean_Code-Robert_C._Martin-000000?style=for-the-badge&logo=goodreads&logoColor=00C853"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-A_Modern_Approach-000000?style=for-the-badge&logo=goodreads&logoColor=00BFA5"/>
+<img src="https://img.shields.io/badge/Web_App_Hackers_Handbook-Dafydd_Stuttard-000000?style=for-the-badge&logo=goodreads&logoColor=00897B"/>
+
+</div>
 
 ---
 
-## 🤝 Collaboration
-
 ## 🤝 Let's Collaborate
 
-I'm always open to collaborating on projects involving
+I'm always open to collaborating on projects involving:
 
-- 🤖 Artificial Intelligence
-- 🔐 Cybersecurity
-- ☁ Cloud Native Applications
-- ⛓ Blockchain Development
-- 📱 SaaS Platforms
-- 🚀 Startup Products
-- 🌐 Full Stack Applications
-- 🔬 Research Projects
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-00C853?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-00BFA5?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Native_Apps-00897B?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blockchain_Dev-00695C?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/SaaS_Platforms-00C853?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Startup_Products-00BFA5?style=for-the-badge&logo=ycombinator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full_Stack_Apps-00897B?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Research_Projects-00695C?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
 
 ---
 
