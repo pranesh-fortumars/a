@@ -62,7 +62,15 @@ With experience leading cross-functional teams and delivering production-ready s
 <img src="https://komarev.com/ghpvc/?username=pranesh-fortumars&label=Visitors&color=00C853&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/pranesh-fortumars?label=Followers&style=for-the-badge&color=00BFA5" /> <img src="https://img.shields.io/github/stars/pranesh-fortumars?affiliations=OWNER&style=for-the-badge&color=00897B" />
 </div>
 
+---
 
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img width="100%" src="https://metrics.lecoq.io/pranesh-fortumars?template=classic&base.header=0&config.timezone=Asia%2FKolkata&languages=1&repositories=1&isocalendar=1&activity=1&community=1&achievements=1&people=1&lines=1"/>
+
+</div>
 
 ---
 
@@ -971,15 +979,6 @@ Full Stack     █████████████████████�
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img width="100%" src="https://metrics.lecoq.io/pranesh-fortumars?template=classic&base.header=0&config.timezone=Asia%2FKolkata&languages=1&repositories=1&isocalendar=1&activity=1&community=1&achievements=1&people=1&lines=1"/>
-
-</div>
-
----
 
 ## 📂 Repository Showcase
 
