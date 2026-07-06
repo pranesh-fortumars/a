@@ -839,13 +839,7 @@ Full Stack     █████████████████████�
 
 </div>
 
----
 
-<div align="center">
-
-### ⚡ *"Building secure software today for the intelligent world of tomorrow."*
-
-</div>
 
 <!-- END OF PART 3 -->
 
@@ -954,28 +948,6 @@ I enjoy contributing to projects related to
 
 ---
 
-## ⚡ Fun Facts
-
-## ⚡ Fun Facts
-
-- 💡 I enjoy solving real-world engineering problems.
-- 🔐 Security is always part of my development process.
-- 🤖 I love combining AI with enterprise software.
-- ☁ Cloud-native architectures interest me.
-- 📚 I enjoy learning new technologies every week.
-- 🚀 I believe continuous learning is the best investment.
-
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-> **"Great software isn't just built to work—it's built to scale, stay secure, and create lasting impact."**
-
-</div>
-
----
 
 ## 🔗 Connect
 
