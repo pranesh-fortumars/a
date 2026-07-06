@@ -1143,56 +1143,6 @@ Legend:
 ## ⚙️ GitHub Actions
 
 
-## 🐍 Snake Workflow
-
-Create
-
-```
-.github/workflows/snake.yml
-```
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-
-        with:
-
-          github_user_name: pranesh-fortumars
-
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-
-        with:
-
-          target_branch: output
-
-          build_dir: dist
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
 ## 📊 Metrics Workflow
 
 Create
@@ -1255,116 +1205,40 @@ jobs:
 ---
 
 
-## ⚡ Profile Optimizations
-
-## ⭐ Hidden Tricks
-
-Enable
-
-- Repository Discussions
-- Repository Wiki
-- GitHub Sponsors
-- Social Preview Image
-- Custom Repository Topics
-
----
-
-## Pin Your Best Repositories
-
-Recommended order
-
-```
-Decentralized E-Voting System
-
-↓
-
-HireFlow ATS
-
-↓
-
-AI Threat Intelligence
-
-↓
-
-Sign Language Recognition
-
-↓
-
-Blockchain Document Authentication
-
-↓
-
-Portfolio Website
-```
-
----
-
-## 🏷️ GitHub Topics
-
-Add repository topics
-
-```
-artificial-intelligence
-
-cybersecurity
-
-blockchain
-
-ethereum
-
-machine-learning
-
-deep-learning
-
-computer-vision
-
-software-engineering
-
-full-stack
-
-react
-
-nextjs
-
-python
-
-fastapi
-
-docker
-
-kubernetes
-
-aws
-
-azure
-
-web3
-
-cloud
-
-enterprise
-```
-
----
 
 
-## 🛡️ Badges
+<details>
+<summary><b>🏷️ GitHub Topics & Core Skills</b></summary>
+<br>
 
-Recommended badges
+<div align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-4ECDC4?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-45B7D1?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-96CEB4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FFEEAD?style=for-the-badge&logo=pytorch&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Computer_Vision-D4A5A5?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Engineering-9B59B6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-34495E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise-8E44AD?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
 
-```markdown
-![Visitors](https://komarev.com/ghpvc/?username=pranesh-fortumars&color=00C853)
+</details>
 
-![Followers](https://img.shields.io/github/followers/pranesh-fortumars)
 
-![Stars](https://img.shields.io/github/stars/pranesh-fortumars?affiliations=OWNER)
-
-![Last Commit](https://img.shields.io/github/last-commit/pranesh-fortumars/pranesh-fortumars)
-
-![Repo Size](https://img.shields.io/github/repo-size/pranesh-fortumars/pranesh-fortumars)
-```
-
----
 
 ## 🔮 Future Additions
 
@@ -1387,7 +1261,6 @@ Recommended badges
 - 🧩 Interactive Skills Graph
 
 ---
-
 
 ## 💬 Final Quote
 
