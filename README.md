@@ -197,19 +197,17 @@ Machine Learning • Deep Learning • Computer Vision
 
 <div align="center">
 
-![](https://img.shields.io/badge/MITRE_ATT%26CK-00C853?style=for-the-badge)
-
-![](https://img.shields.io/badge/OWASP_TOP_10-00BFA5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Burp_Suite-00897B?style=for-the-badge)
-
-![](https://img.shields.io/badge/Metasploit-00695C?style=for-the-badge)
-
-![](https://img.shields.io/badge/Nmap-00C853?style=for-the-badge)
-
-![](https://img.shields.io/badge/Nessus-00BFA5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Digital_Forensics-00897B?style=for-the-badge)
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP_TOP_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logo=microsoftdefender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital_Forensics-00897B?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
 </div>
 
