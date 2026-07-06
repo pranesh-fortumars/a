@@ -1830,7 +1830,7 @@ Recommended badges
 
 - [ ] Upload README.md
 - [ ] Add Social Preview Banner
-- [ ] Configure Snake Workflow
+- [x] Configure Snake Workflow
 - [ ] Configure Metrics Workflow
 - [ ] Configure Blog Workflow
 - [ ] Configure WakaTime Workflow
