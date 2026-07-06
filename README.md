@@ -980,80 +980,37 @@ Full Stack     █████████████████████�
 ---
 
 
-## 📂 Repository Showcase
 
-<div align="center">
-
-## 🚀 Featured Repository Showcase
-
-</div>
-
-| Project | Description |
-|----------|-------------|
-| <a href="https://github.com/pranesh-fortumars/Decentralized-E-Voting-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranesh-fortumars&repo=Decentralized-E-Voting-System&theme=transparent&title_color=00C853&text_color=EAF7F1&icon_color=00BFA5"/></a> | Blockchain Voting |
-| <a href="https://github.com/pranesh-fortumars/HireFlow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranesh-fortumars&repo=HireFlow&theme=transparent&title_color=00C853&text_color=EAF7F1&icon_color=00BFA5"/></a> | Recruitment ATS |
-| <a href="https://github.com/pranesh-fortumars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranesh-fortumars&repo=Real-Time-Sign-Language-Recognition&theme=transparent&title_color=00C853&text_color=EAF7F1&icon_color=00BFA5"/></a> | AI Computer Vision |
-| <a href="https://github.com/pranesh-fortumars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranesh-fortumars&repo=Blockchain-Document-Authentication&theme=transparent&title_color=00C853&text_color=EAF7F1&icon_color=00BFA5"/></a> | Blockchain Security |
-
-> ⚠️ Replace any repository names that don't exactly match your GitHub repositories.
-
----
 
 ## ⏳ Weekly Development Breakdown
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pranesh-fortumars&theme=transparent&layout=compact" />
+<img src="https://img.shields.io/badge/Python-42%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+<br>
+<img src="https://img.shields.io/badge/Solidity-10%25-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-5%25-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Other-3%25-8E24AA?style=for-the-badge" />
+
+> *(Live data will populate here once WakaTime tracks enough coding hours)*
 
 </div>
 
 ---
 
-## 🎵 Spotify
 
-## 🎵 Now Playing
-
-```markdown
-<a href="https://github.com/kittinan/spotify-github-profile">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
-
-</a>
-```
-
----
-
-
-
-## 💬 Developer Quote
-
-<div align="center">
-
-## 💬 Developer Quote
-
-> **"Secure code is not a feature; it's the foundation of every great application."**
-
-</div>
-
----
-
-## 🌍 World Contributions
 
 ## 🌍 Contribution World Map
 
-```markdown
-<img src="https://ghchart.rshah.org/00C853/pranesh-fortumars"/>
-```
+<div align="center">
+  <img src="https://ghchart.rshah.org/00C853/pranesh-fortumars" alt="Contribution Map"/>
+</div>
 
 ---
 
-## 🔥 LeetCode Heatmap
-
 ## 🏆 LeetCode Progress
 
-```markdown
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono"/>
-```
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/pranesh-fortumars?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Heatmap"/>
+</div>
 
 ---
 
@@ -1092,43 +1049,23 @@ I'm always open to collaborating on projects involving:
 
 ---
 
-## 💼 Professional Services
+<details>
+<summary><b>💼 Professional Services</b></summary>
+<br>
 
-## 🏢 Professional Services
+<div align="center">
+  <img src="https://img.shields.io/badge/Software_Architecture-00695C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enterprise_App_Development-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Solutions-00BFA5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Consulting-00C853?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/badge/Blockchain_Development-00E676?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Development-B9F6CA?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud_Deployment-69F0AE?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Performance_Optimization-00E676?style=for-the-badge" />
+</div>
 
-I can contribute in
-
-✅ Software Architecture
-
-✅ Enterprise Application Development
-
-✅ AI Solutions
-
-✅ Cybersecurity Consulting
-
-✅ Blockchain Development
-
-✅ API Development
-
-✅ Cloud Deployment
-
-✅ Performance Optimization
-
----
-
-## 📬 Newsletter
-
-## 📬 Stay Connected
-
-If you enjoy my work,
-
-⭐ Follow my GitHub
-
-💼 Connect on LinkedIn
-
-🤝 Collaborate on exciting projects
-
-📧 Reach out for technical discussions
+</details>
 
 ---
 
