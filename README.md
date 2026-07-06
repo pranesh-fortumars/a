@@ -402,7 +402,12 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
+<details>
+<summary>
+
 ## 👨‍💼 Software Development Team Lead
+
+</summary>
 
 ### Fortumars AI Technologies and Business Solutions Pvt. Ltd.
 
@@ -442,9 +447,16 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 `DevOps`
 `Agile`
 
+</details>
+
 ---
 
+<details>
+<summary>
+
 ## 💻 Software Development Intern
+
+</summary>
 
 ### Fortumars AI Technologies and Business Solutions Pvt. Ltd.
 
@@ -470,9 +482,16 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 `PostgreSQL`
 `Docker`
 
+</details>
+
 ---
 
+<details>
+<summary>
+
 ## ☁ Deployment & Security Intern
+
+</summary>
 
 ### Shadow Fox
 
@@ -495,9 +514,16 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 `Security`
 `Nmap`
 
+</details>
+
 ---
 
+<details>
+<summary>
+
 ## 🔐 Cybersecurity Intern
+
+</summary>
 
 ### Center for Cyber Security Studies & Research (CFCS2R)
 
@@ -519,9 +545,16 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 `Cybersecurity`
 `Threat Hunting`
 
+</details>
+
 ---
 
+<details>
+<summary>
+
 ## 🤖 Product Intern
+
+</summary>
 
 ### NAS IO
 
@@ -541,6 +574,8 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 `Robotics`
 `Research`
 `Automation`
+
+</details>
 
 ---
 
