@@ -25,13 +25,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Degree-B.E.%20Information%20Science%20%26%20Engineering-00C853?style=flat-square)
-
-![](https://img.shields.io/badge/University-Bannari%20Amman%20Institute%20of%20Technology-00BFA5?style=flat-square)
-
-![](https://img.shields.io/badge/Role-Software%20Development%20Team%20Lead-00897B?style=flat-square)
-
-![](https://img.shields.io/badge/Location-India-00695C?style=flat-square)
+![](https://img.shields.io/badge/Degree-B.E.%20Information%20Science%20%26%20Engineering-00C853?style=flat-square) ![](https://img.shields.io/badge/University-Bannari%20Amman%20Institute%20of%20Technology-00BFA5?style=flat-square) ![](https://img.shields.io/badge/Role-Software%20Development%20Team%20Lead-00897B?style=flat-square) ![](https://img.shields.io/badge/Location-India-00695C?style=flat-square)
 
 </div>
 
@@ -41,21 +35,7 @@
 
 <div align="center">
 
-<a href="https://github.com/pranesh-fortumars">
-<img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pranesh-s-ps34101136/">
-<img src="https://img.shields.io/badge/LinkedIn-00BFA5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pranesh.se22@bitsathy.ac.in">
-<img src="https://img.shields.io/badge/Email-00897B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/pranesh-fortumars">
-<img src="https://img.shields.io/badge/Portfolio-00695C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<a href="https://github.com/pranesh-fortumars"><img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pranesh-s-ps34101136/"><img src="https://img.shields.io/badge/LinkedIn-00BFA5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:pranesh.se22@bitsathy.ac.in"><img src="https://img.shields.io/badge/Email-00897B?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/pranesh-fortumars"><img src="https://img.shields.io/badge/Portfolio-00695C?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
@@ -65,11 +45,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=pranesh-fortumars&label=PROFILE+VIEWS&color=00C853&style=flat-square)
-
-![](https://img.shields.io/github/followers/pranesh-fortumars?label=Followers&style=flat-square&color=00BFA5)
-
-![](https://img.shields.io/github/stars/pranesh-fortumars?affiliations=OWNER&style=flat-square&color=00897B)
+![](https://komarev.com/ghpvc/?username=pranesh-fortumars&label=PROFILE+VIEWS&color=00C853&style=flat-square) ![](https://img.shields.io/github/followers/pranesh-fortumars?label=Followers&style=flat-square&color=00BFA5) ![](https://img.shields.io/github/stars/pranesh-fortumars?affiliations=OWNER&style=flat-square&color=00897B)
 
 </div>
 
