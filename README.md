@@ -47,43 +47,22 @@
 
 ## 📝 About Me
 
-```bash
-> whoami
-
-Name        : Pranesh S
-Role        : Software Development Team Lead
-Education   : B.E. Information Science and Engineering
-University  : Bannari Amman Institute of Technology
-CGPA        : 8.20
-
-Specialties :
-  • Software Engineering
-  • Cybersecurity
-  • Artificial Intelligence
-  • Blockchain Development
-  • Cloud Computing
-  • Full Stack Development
-
-Open To :
-  • Software Engineer
-  • AI Engineer
-  • Security Engineer
-  • Backend Engineer
-  • Full Stack Engineer
-
-Current Mission :
-Building scalable enterprise software while integrating
-Artificial Intelligence, Cloud Computing, Blockchain,
-and Cybersecurity into modern business solutions.
-```
-
----
-
-## 🚀 About Me
-
 I am a **Software Development Team Lead** passionate about designing **secure, scalable, and intelligent software solutions**. My work spans **Artificial Intelligence, Cybersecurity, Blockchain, Cloud Computing, and Full-Stack Development**, where I build enterprise-grade applications that solve real-world business challenges.
 
 With experience leading cross-functional teams and delivering production-ready systems, I enjoy architecting solutions that combine **security, performance, automation, and modern engineering practices**.
+
+### ✨ Specialties
+<div>
+<img src="https://img.shields.io/badge/-Software_Engineering-1E88E5?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-Cybersecurity-E53935?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/-Artificial_Intelligence-8E24AA?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/-Blockchain_Dev-FF9800?style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/-Cloud_Computing-00E676?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/-Full_Stack_Dev-3949AB?style=for-the-badge&logo=react&logoColor=white" />
+</div>
+
+### 💼 Open To
+<div>
+<img src="https://img.shields.io/badge/Role-Software_Engineer-1E88E5?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/Role-AI_Engineer-E53935?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/Role-Security_Engineer-8E24AA?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/Role-Backend_Engineer-FF9800?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/Role-Full_Stack_Engineer-00E676?style=for-the-badge&labelColor=000000" />
+</div>
+
+### 🎯 Current Mission
+> *Building scalable enterprise software while integrating Artificial Intelligence, Cloud Computing, Blockchain, and Cybersecurity into modern business solutions.*
 
 ---
 
