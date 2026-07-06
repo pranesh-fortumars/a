@@ -1022,11 +1022,11 @@ I enjoy contributing to projects related to
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/pranesh-fortumars/pranesh-fortumars/blob/output/github-contribution-grid-snake-dark.svg?raw=true"
+    srcset="https://raw.githubusercontent.com/pranesh-fortumars/a/output/github-contribution-grid-snake-dark.svg?sanitize=true"
   />
   <img
     alt="GitHub contribution snake"
-    src="https://github.com/pranesh-fortumars/pranesh-fortumars/blob/output/github-contribution-grid-snake.svg?raw=true"
+    src="https://raw.githubusercontent.com/pranesh-fortumars/a/output/github-contribution-grid-snake.svg?sanitize=true"
   />
 </picture>
 
