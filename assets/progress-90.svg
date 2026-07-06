@@ -1,0 +1,15 @@
+<svg width="150" height="24" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="150" height="24" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="12" />
+  
+  <!-- Animated Progress -->
+  <rect width="0" height="24" fill="#00C853" rx="12">
+    <animate attributeName="width" from="0" to="135" dur="1.5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1" />
+  </rect>
+  
+  <!-- Text -->
+  <text x="75" y="16" font-family="Inter, Verdana, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle" opacity="0">
+    90%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze" />
+  </text>
+</svg>
