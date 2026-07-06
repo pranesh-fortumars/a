@@ -56,10 +56,10 @@ With experience leading cross-functional teams and delivering production-ready s
 
 ---
 
-## 🐙 GitHub
+## 🐙 GitHub Analytics
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=pranesh-fortumars&label=PROFILE+VIEWS&color=00C853&style=flat-square" /> <img src="https://img.shields.io/github/followers/pranesh-fortumars?label=Followers&style=flat-square&color=00BFA5" /> <img src="https://img.shields.io/github/stars/pranesh-fortumars?affiliations=OWNER&style=flat-square&color=00897B" />
+<img src="https://komarev.com/ghpvc/?username=pranesh-fortumars&label=Visitors&color=00C853&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/pranesh-fortumars?label=Followers&style=for-the-badge&color=00BFA5" /> <img src="https://img.shields.io/github/stars/pranesh-fortumars?affiliations=OWNER&style=for-the-badge&color=00897B" />
 </div>
 
 
@@ -852,73 +852,24 @@ Full Stack     █████████████████████�
 
 ---
 
-## ⏳ Daily Workflow
+<details>
+<summary><b>⏳ Daily Workflow</b></summary>
+<br>
+<div align="center">
 
-```text
-☀ Morning
-│
-├── Review Tasks
-├── Team Standup
-├── Architecture Planning
-│
-├──────────────────────────────
-│
-💻 Development
-│
-├── Backend APIs
-├── Frontend Features
-├── Database Design
-├── Testing
-├── Debugging
-│
-├──────────────────────────────
-│
-🚀 Deployment
-│
-├── Docker
-├── GitHub
-├── Cloud
-├── Monitoring
-│
-└──────────────────────────────
-```
+| Phase | Activities |
+|:---:|:---|
+| ☀ **Morning** | Review Tasks • Team Standup • Architecture Planning |
+| 💻 **Development** | Backend APIs • Frontend Features • Database Design • Testing • Debugging |
+| 🚀 **Deployment** | Docker • GitHub • Cloud • Monitoring |
+
+</div>
+</details>
 
 ---
 
 
-## 🔗 Connect
 
-<div align="center">
-
-## 🌐 Let's Connect
-
-<a href="https://github.com/pranesh-fortumars">
-<img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pranesh-s-ps34101136/">
-<img src="https://img.shields.io/badge/LinkedIn-00BFA5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pranesh.se22@bitsathy.ac.in">
-<img src="https://img.shields.io/badge/Email-00897B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/pranesh-fortumars">
-<img src="https://img.shields.io/badge/Repositories-00695C?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 👁️ Visitor Counter
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=pranesh-fortumars&label=Visitors&style=for-the-badge&color=00C853)
-
-</div>
 
 ---
 
@@ -947,17 +898,9 @@ Full Stack     █████████████████████�
 
 <div align="center">
 
-## 💙 Thanks for visiting my profile!
-
-If you like my work:
-
-⭐ Star my repositories
-
-🍴 Fork interesting projects
-
-🤝 Connect on LinkedIn
-
-💬 Let's collaborate on innovative ideas
+**Thanks for visiting my profile! If you like my work:**
+<br><br>
+<a href="https://github.com/pranesh-fortumars"><img src="https://img.shields.io/badge/⭐_Star_Repositories-00C853?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/pranesh-fortumars"><img src="https://img.shields.io/badge/🍴_Fork_Projects-00BFA5?style=for-the-badge&logo=git&logoColor=white" /></a> <a href="https://www.linkedin.com/in/pranesh-s-ps34101136/"><img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-00897B?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pranesh.se22@bitsathy.ac.in"><img src="https://img.shields.io/badge/💬_Collaborate-00695C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
