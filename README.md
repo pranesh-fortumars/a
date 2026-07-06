@@ -21,11 +21,30 @@
 
 ---
 
-## 👨‍💻 Profile
+## 📝 About Me
 
-<div align="center">
-<img src="https://img.shields.io/badge/Degree-B.E.%20Information%20Science%20%26%20Engineering-00C853?style=flat-square" /> <img src="https://img.shields.io/badge/University-Bannari%20Amman%20Institute%20of%20Technology-00BFA5?style=flat-square" /> <img src="https://img.shields.io/badge/Role-Software%20Development%20Team%20Lead-00897B?style=flat-square" /> <img src="https://img.shields.io/badge/Location-India-00695C?style=flat-square" />
+I am a **Software Development Team Lead** passionate about designing **secure, scalable, and intelligent software solutions**. My work spans **Artificial Intelligence, Cybersecurity, Blockchain, Cloud Computing, and Full-Stack Development**, where I build enterprise-grade applications that solve real-world business challenges.
+
+With experience leading cross-functional teams and delivering production-ready systems, I enjoy architecting solutions that combine **security, performance, automation, and modern engineering practices**.
+
+### ✨ Specialties
+<div>
+<img src="https://img.shields.io/badge/-Software_Engineering-1E88E5?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-Cybersecurity-E53935?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/-Artificial_Intelligence-8E24AA?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/-Blockchain_Development-FF9800?style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/-Cloud_Computing-00E676?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/-Full_Stack_Development-3949AB?style=for-the-badge&logo=react&logoColor=white" />
 </div>
+
+### 💼 Open To
+
+<div>
+<img src="https://img.shields.io/badge/Open_To-Roles-000000?style=for-the-badge" /><br>
+&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/-Software_Engineer-1E88E5?style=for-the-badge" /><br>
+&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/-AI_Engineer-E53935?style=for-the-badge" /><br>
+&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/-Security_Engineer-8E24AA?style=for-the-badge" /><br>
+&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/-Backend_Engineer-FF9800?style=for-the-badge" /><br>
+&nbsp;&nbsp;└── <img src="https://img.shields.io/badge/-Full_Stack_Engineer-00E676?style=for-the-badge" />
+</div>
+
+### 🎯 Current Mission
+> *Building scalable enterprise software while integrating Artificial Intelligence, Cloud Computing, Blockchain, and Cybersecurity into modern business solutions.*
 
 ---
 
@@ -43,32 +62,7 @@
 <img src="https://komarev.com/ghpvc/?username=pranesh-fortumars&label=PROFILE+VIEWS&color=00C853&style=flat-square" /> <img src="https://img.shields.io/github/followers/pranesh-fortumars?label=Followers&style=flat-square&color=00BFA5" /> <img src="https://img.shields.io/github/stars/pranesh-fortumars?affiliations=OWNER&style=flat-square&color=00897B" />
 </div>
 
----
 
-## 📝 About Me
-
-I am a **Software Development Team Lead** passionate about designing **secure, scalable, and intelligent software solutions**. My work spans **Artificial Intelligence, Cybersecurity, Blockchain, Cloud Computing, and Full-Stack Development**, where I build enterprise-grade applications that solve real-world business challenges.
-
-With experience leading cross-functional teams and delivering production-ready systems, I enjoy architecting solutions that combine **security, performance, automation, and modern engineering practices**.
-
-### ✨ Specialties
-<div>
-<img src="https://img.shields.io/badge/-Software_Engineering-1E88E5?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-Cybersecurity-E53935?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/-Artificial_Intelligence-8E24AA?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/-Blockchain_Dev-FF9800?style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/-Cloud_Computing-00E676?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/-Full_Stack_Dev-3949AB?style=for-the-badge&logo=react&logoColor=white" />
-</div>
-
-### 💼 Open To
-
-<div>
-<img src="https://img.shields.io/badge/Open_To-Roles-000000?style=for-the-badge" /><br>
-&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/-Software_Engineer-1E88E5?style=for-the-badge" /><br>
-&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/-AI_Engineer-E53935?style=for-the-badge" /><br>
-&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/-Security_Engineer-8E24AA?style=for-the-badge" /><br>
-&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/-Backend_Engineer-FF9800?style=for-the-badge" /><br>
-&nbsp;&nbsp;└── <img src="https://img.shields.io/badge/-Full_Stack_Engineer-00E676?style=for-the-badge" />
-</div>
-
-### 🎯 Current Mission
-> *Building scalable enterprise software while integrating Artificial Intelligence, Cloud Computing, Blockchain, and Cybersecurity into modern business solutions.*
 
 ---
 
