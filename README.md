@@ -13,7 +13,7 @@
 
 <div align="center">
 
-# `~/whoami`
+## 👤 Who Am I
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=800&color=00C853&center=true&vCenter=true&width=900&lines=%24+whoami;Software+Development+Team+Lead;Cybersecurity+%7C+AI+%7C+Blockchain+Engineer;Building+Secure+and+Scalable+Enterprise+Applications;Always+Learning+%F0%9F%9A%80"/>
 
@@ -21,7 +21,7 @@
 
 ---
 
-# `~/profile`
+## 👨‍💻 Profile
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-# `~/connect`
+## 🔗 Connect
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-# `~/github`
+## 🐙 GitHub
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 
 ---
 
-# `~/about_me`
+## 📝 About Me
 
 ```bash
 > whoami
@@ -117,7 +117,7 @@ With experience leading cross-functional teams and delivering production-ready s
 
 ---
 
-# `~/tech_stack`
+## 🛠️ Tech Stack
 
 ## 💻 Programming Languages
 
@@ -228,7 +228,7 @@ Machine Learning • Deep Learning • Computer Vision
 <!--             PART 2 OF README              -->
 <!-- ========================================= -->
 
-# `~/expertise`
+## 📊 Expertise
 
 ## 📊 Core Expertise
 
@@ -243,7 +243,7 @@ Machine Learning • Deep Learning • Computer Vision
 
 ---
 
-# `~/featured_projects`
+## 🚀 Featured Projects
 
 # 🚀 Featured Projects
 
@@ -398,7 +398,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/experience`
+## 💼 Experience
 
 # 💼 Professional Experience
 
@@ -546,7 +546,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/certifications`
+## 🏆 Certifications
 
 <div align="center">
 
@@ -563,7 +563,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/research`
+## 📚 Research
 
 ## 📚 Research & Publications
 
@@ -574,7 +574,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/achievements`
+## 🏅 Achievements
 
 <div align="center">
 
@@ -603,7 +603,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 <!--             PART 3 OF README              -->
 <!-- ========================================= -->
 
-# `~/github_analytics`
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -615,7 +615,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/top_languages`
+## 🏆 Top Languages
 
 <div align="center">
 
@@ -625,7 +625,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/development_overview`
+## 🔭 Development Overview
 
 <div align="center">
 
@@ -643,7 +643,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/github_trophies`
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -653,7 +653,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/activity_graph`
+## 📉 Activity Graph
 
 <div align="center">
 
@@ -663,7 +663,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/coding_statistics`
+## 💻 Coding Statistics
 
 <div align="center">
 
@@ -681,7 +681,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/developer_summary`
+## 👨‍💻 Developer Summary
 
 <div align="center">
 
@@ -691,7 +691,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/repositories_per_language`
+## 📁 Repositories Per Language
 
 <div align="center">
 
@@ -703,7 +703,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/github_productivity`
+## ⚡ GitHub Productivity
 
 <div align="center">
 
@@ -715,7 +715,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/technology_ecosystem`
+## 🌐 Technology Ecosystem
 
 <div align="center">
 
@@ -731,7 +731,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/contribution_highlights`
+## ⭐ Contribution Highlights
 
 <div align="center">
 
@@ -748,7 +748,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
-# `~/current_status`
+## 📡 Current Status
 
 ```yaml
 developer:
@@ -823,7 +823,7 @@ Full Stack     █████████████████████�
 <!--             PART 4 OF README              -->
 <!-- ========================================= -->
 
-# `~/current_focus`
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -868,7 +868,7 @@ current_focus:
 
 ---
 
-# `~/learning_roadmap`
+## 🗺️ Learning Roadmap
 
 <div align="center">
 
@@ -887,7 +887,7 @@ current_focus:
 
 ---
 
-# `~/research_interests`
+## 🔬 Research Interests
 
 ## 🔬 Research Areas
 
@@ -904,7 +904,7 @@ current_focus:
 
 ---
 
-# `~/opensource`
+## ❤️ Open Source
 
 ## ❤️ Open Source Interests
 
@@ -921,7 +921,7 @@ I enjoy contributing to projects related to
 
 ---
 
-# `~/daily_workflow`
+## ⏳ Daily Workflow
 
 ```text
 ☀ Morning
@@ -954,7 +954,7 @@ I enjoy contributing to projects related to
 
 ---
 
-# `~/fun_facts`
+## ⚡ Fun Facts
 
 ## ⚡ Fun Facts
 
@@ -967,7 +967,7 @@ I enjoy contributing to projects related to
 
 ---
 
-# `~/developer_philosophy`
+## 💡 Developer Philosophy
 
 <div align="center">
 
@@ -977,7 +977,7 @@ I enjoy contributing to projects related to
 
 ---
 
-# `~/connect`
+## 🔗 Connect
 
 <div align="center">
 
@@ -1003,7 +1003,7 @@ I enjoy contributing to projects related to
 
 ---
 
-# `~/visitor_counter`
+## 👁️ Visitor Counter
 
 <div align="center">
 
@@ -1013,7 +1013,7 @@ I enjoy contributing to projects related to
 
 ---
 
-# `~/snake_animation`
+## 🐍 Snake Animation
 
 <div align="center">
 
@@ -1038,7 +1038,7 @@ I enjoy contributing to projects related to
 
 ---
 
-# `~/support`
+## 💙 Support
 
 <div align="center">
 
@@ -1058,7 +1058,7 @@ If you like my work:
 
 ---
 
-# `~/footer`
+## 🏁 Footer
 
 <div align="center">
 
@@ -1079,7 +1079,7 @@ If you like my work:
 <!--     PART 5 - PREMIUM EXTRAS & WIDGETS     -->
 <!-- ========================================= -->
 
-# `~/education`
+## 🎓 Education
 
 <div align="center">
 
@@ -1093,7 +1093,7 @@ If you like my work:
 
 ---
 
-# `~/coding_profiles`
+## 👨‍💻 Coding Profiles
 
 <div align="center">
 
@@ -1123,7 +1123,7 @@ If you like my work:
 
 ---
 
-# `~/github_metrics`
+## 📊 GitHub Metrics
 
 <div align="center">
 
@@ -1133,7 +1133,7 @@ If you like my work:
 
 ---
 
-# `~/repository_showcase`
+## 📂 Repository Showcase
 
 <div align="center">
 
@@ -1152,7 +1152,7 @@ If you like my work:
 
 ---
 
-# `~/wakatime`
+## ⏳ WakaTime
 
 ## ⏳ Weekly Development Breakdown
 
@@ -1180,7 +1180,7 @@ Other         ██ 4%
 
 ---
 
-# `~/spotify`
+## 🎵 Spotify
 
 ## 🎵 Now Playing
 
@@ -1194,7 +1194,7 @@ Other         ██ 4%
 
 ---
 
-# `~/latest_blog_posts`
+## 📰 Latest Blog Posts
 
 ## 📰 Latest Articles
 
@@ -1212,7 +1212,7 @@ Supports
 
 ---
 
-# `~/youtube`
+## 📺 YouTube
 
 ## 📺 Latest YouTube Videos
 
@@ -1223,7 +1223,7 @@ Supports
 
 ---
 
-# `~/developer_quote`
+## 💬 Developer Quote
 
 <div align="center">
 
@@ -1235,7 +1235,7 @@ Supports
 
 ---
 
-# `~/world_contributions`
+## 🌍 World Contributions
 
 ## 🌍 Contribution World Map
 
@@ -1245,7 +1245,7 @@ Supports
 
 ---
 
-# `~/leetcode_heatmap`
+## 🔥 LeetCode Heatmap
 
 ## 🏆 LeetCode Progress
 
@@ -1255,7 +1255,7 @@ Supports
 
 ---
 
-# `~/reading_list`
+## 📚 Reading List
 
 ## 📚 Currently Reading
 
@@ -1269,7 +1269,7 @@ Supports
 
 ---
 
-# `~/collaboration`
+## 🤝 Collaboration
 
 ## 🤝 Let's Collaborate
 
@@ -1286,7 +1286,7 @@ I'm always open to collaborating on projects involving
 
 ---
 
-# `~/professional_services`
+## 💼 Professional Services
 
 ## 🏢 Professional Services
 
@@ -1310,7 +1310,7 @@ I can contribute in
 
 ---
 
-# `~/newsletter`
+## 📬 Newsletter
 
 ## 📬 Stay Connected
 
@@ -1326,7 +1326,7 @@ If you enjoy my work,
 
 ---
 
-# `~/career_timeline`
+## ⏳ Career Timeline
 
 ```text
 2022
@@ -1385,7 +1385,7 @@ AI + Cybersecurity + SaaS + Cloud
 
 ---
 
-# `~/goals_2026`
+## 🎯 Goals 2026
 
 ## 🎯 2026 Goals
 
@@ -1410,7 +1410,7 @@ Legend:
 
 ---
 
-# `~/tech_ecosystem`
+## 🌐 Tech Ecosystem
 
 ```text
                     AI
@@ -1441,7 +1441,7 @@ Legend:
 </div>
 
 <!-- END PART 5 -->
-# `~/github_actions`
+## ⚙️ GitHub Actions
 
 ## 📁 Repository Structure
 
@@ -1469,7 +1469,7 @@ pranesh-fortumars/
 
 ---
 
-# `~/snake_workflow`
+## 🐍 Snake Workflow
 
 Create
 
@@ -1519,7 +1519,7 @@ jobs:
 
 ---
 
-# `~/metrics_workflow`
+## 📊 Metrics Workflow
 
 Create
 
@@ -1571,7 +1571,7 @@ jobs:
 
 ---
 
-# `~/blog_workflow`
+## 📝 Blog Workflow
 
 ```
 .github/workflows/blog-post.yml
@@ -1611,7 +1611,7 @@ Replace with
 
 ---
 
-# `~/wakatime_workflow`
+## ⏳ WakaTime Workflow
 
 ```
 .github/workflows/waka.yml
@@ -1643,7 +1643,7 @@ jobs:
 
 ---
 
-# `~/github_secrets`
+## 🔐 GitHub Secrets
 
 Add these secrets under:
 
@@ -1668,7 +1668,7 @@ Actions
 
 ---
 
-# `~/profile_optimizations`
+## ⚡ Profile Optimizations
 
 ## ⭐ Hidden Tricks
 
@@ -1712,7 +1712,7 @@ Portfolio Website
 
 ---
 
-# `~/github_topics`
+## 🏷️ GitHub Topics
 
 Add repository topics
 
@@ -1760,7 +1760,7 @@ enterprise
 
 ---
 
-# `~/social_preview`
+## 🖼️ Social Preview
 
 Upload
 
@@ -1784,7 +1784,7 @@ Upload banner
 
 ---
 
-# `~/badges`
+## 🛡️ Badges
 
 Recommended badges
 
@@ -1802,7 +1802,7 @@ Recommended badges
 
 ---
 
-# `~/future_additions`
+## 🔮 Future Additions
 
 ## 🚀 Future Integrations
 
@@ -1824,7 +1824,7 @@ Recommended badges
 
 ---
 
-# `~/checklist`
+## ✅ Checklist
 
 ## ✅ Final Checklist
 
@@ -1842,7 +1842,7 @@ Recommended badges
 
 ---
 
-# `~/final_quote`
+## 💬 Final Quote
 
 <div align="center">
 
