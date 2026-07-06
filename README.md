@@ -1142,31 +1142,6 @@ Legend:
 <!-- END PART 5 -->
 ## ⚙️ GitHub Actions
 
-## 📁 Repository Structure
-
-```text
-pranesh-fortumars/
-│
-├── README.md
-│
-├── .github
-│   └── workflows
-│       ├── snake.yml
-│       ├── blog-post.yml
-│       ├── waka.yml
-│       └── metrics.yml
-│
-├── assets
-│   ├── banner.png
-│   ├── logo.png
-│   └── terminal.gif
-│
-└── output
-    ├── github-contribution-grid-snake.svg
-    └── github-contribution-grid-snake-dark.svg
-```
-
----
 
 ## 🐍 Snake Workflow
 
@@ -1253,45 +1228,6 @@ jobs:
 
 ---
 
-## 📝 Blog Workflow
-
-```
-.github/workflows/blog-post.yml
-```
-
-```yaml
-name: Latest Blog Posts
-
-on:
-
-  schedule:
-
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-
-  update-readme:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: gautamkrishnar/blog-post-workflow@master
-
-        with:
-
-          feed_list: "https://your-blog-feed.xml"
-```
-
-Replace with
-
-- Medium RSS
-- Dev.to RSS
-- Hashnode RSS
-
----
 
 ## ⏳ WakaTime Workflow
 
@@ -1318,30 +1254,6 @@ jobs:
 
 ---
 
-## 🔐 GitHub Secrets
-
-Add these secrets under:
-
-```
-Settings
-↓
-
-Secrets and Variables
-
-↓
-
-Actions
-```
-
-| Secret | Required |
-|---------|----------|
-| GITHUB_TOKEN | ✅ |
-| WAKATIME_API_KEY | Optional |
-| METRICS_TOKEN | Optional |
-| SPOTIFY_CLIENT_ID | Optional |
-| SPOTIFY_CLIENT_SECRET | Optional |
-
----
 
 ## ⚡ Profile Optimizations
 
@@ -1435,29 +1347,6 @@ enterprise
 
 ---
 
-## 🖼️ Social Preview
-
-Upload
-
-```
-assets/banner.png
-```
-
-Then
-
-```
-Settings
-
-↓
-
-Social Preview
-
-↓
-
-Upload banner
-```
-
----
 
 ## 🛡️ Badges
 
@@ -1499,23 +1388,6 @@ Recommended badges
 
 ---
 
-## ✅ Checklist
-
-## ✅ Final Checklist
-
-- [ ] Upload README.md
-- [ ] Add Social Preview Banner
-- [x] Configure Snake Workflow
-- [ ] Configure Metrics Workflow
-- [ ] Configure Blog Workflow
-- [ ] Configure WakaTime Workflow
-- [ ] Pin Top Repositories
-- [ ] Update Repository Topics
-- [ ] Replace Placeholder Links
-- [ ] Verify All Badges
-- [ ] Enable GitHub Pages (Optional)
-
----
 
 ## 💬 Final Quote
 
