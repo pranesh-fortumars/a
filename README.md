@@ -1098,26 +1098,25 @@ I'm always open to collaborating on projects involving:
 
 ---
 
-## 🎯 2026 Goals
+<details>
+<summary><b>🎯 2026 Goals Tracker</b></summary>
+<br>
 
-| Goal | Status |
-|------|:------:|
-| 🚀 Build 10+ Enterprise Applications | 🟢 |
-| 🤖 Publish AI Projects | 🟢 |
-| 🔐 Open Source Cybersecurity Tools | 🟡 |
-| 🌐 Launch Portfolio Platform | 🟢 |
-| ☁ Advanced Cloud Certifications | 🟡 |
-| 📚 Publish Technical Blogs | 🟡 |
-| 🎤 Speak at Tech Conferences | 🔵 |
-| 💼 Mentor Developers | 🟢 |
+<div align="center">
 
-Legend:
+| 🏆 Goal | 📈 Status |
+|:---|:---:|
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Build 10+ Enterprise Applications | <img src="https://img.shields.io/badge/IN_PROGRESS-00C853?style=for-the-badge" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Publish AI Projects | <img src="https://img.shields.io/badge/IN_PROGRESS-00C853?style=for-the-badge" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Key" width="25" height="25" /> Open Source Cybersecurity Tools | <img src="https://img.shields.io/badge/PLANNED-FFD600?style=for-the-badge" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> Launch Portfolio Platform | <img src="https://img.shields.io/badge/IN_PROGRESS-00C853?style=for-the-badge" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Advanced Cloud Certifications | <img src="https://img.shields.io/badge/PLANNED-FFD600?style=for-the-badge" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Publish Technical Blogs | <img src="https://img.shields.io/badge/PLANNED-FFD600?style=for-the-badge" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Microphone" width="25" height="25" /> Speak at Tech Conferences | <img src="https://img.shields.io/badge/FUTURE_GOAL-2962FF?style=for-the-badge" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Mentor Developers | <img src="https://img.shields.io/badge/IN_PROGRESS-00C853?style=for-the-badge" /> |
 
-🟢 In Progress
-
-🟡 Planned
-
-🔵 Future Goal
+</div>
+</details>
 
 ---
 
