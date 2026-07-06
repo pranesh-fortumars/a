@@ -1226,19 +1226,7 @@ jobs:
 
 ---
 
-## 💬 Final Quote
 
-<div align="center">
-
-# ⚡ *"Secure. Intelligent. Scalable."*
-
-### **Building enterprise software that combines Artificial Intelligence, Cybersecurity, Blockchain, and Cloud Computing to solve real-world problems.**
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:00695C,50:00BFA5,100:00C853&section=footer"/>
-
-</div>
-
----
 
 <div align="center">
 
