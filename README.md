@@ -856,22 +856,15 @@ Full Stack     █████████████████████�
 
 ## 🎯 Current Focus
 
-## 🚀 Currently Building
+<div align="center">
 
-<img src="https://img.shields.io/badge/🏗️_Building-000000?style=for-the-badge&logoColor=white" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=4000&pause=1000&color=00C853&center=false&vCenter=true&width=400&lines=Enterprise+ERP+Systems;CRM+Platforms;Hiring+%26+ATS+Solutions;AI+Powered+Business+Apps;SaaS+Products" alt="Typing SVG" />
-<br>
+| <img src="https://img.shields.io/badge/🏗️_Building-000000?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/🌱_Learning-000000?style=for-the-badge&logoColor=white" /> |
+|:---:|:---:|
+| <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=15&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=350&lines=Enterprise+ERP+Systems;CRM+Platforms;Hiring+%26+ATS+Solutions;AI+Powered+Business+Apps;SaaS+Products" alt="Typing SVG" /> | <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=15&duration=4000&pause=1000&color=00BFA5&center=true&vCenter=true&width=350&lines=Agentic+AI;Large+Language+Models;AI+Automation;Cloud+Architecture;Kubernetes" alt="Typing SVG" /> |
+| <img src="https://img.shields.io/badge/🔭_Exploring-000000?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/💼_Open_To-000000?style=for-the-badge&logoColor=white" /> |
+| <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=15&duration=4000&pause=1000&color=00897B&center=true&vCenter=true&width=350&lines=Generative+AI;Secure+AI+Infrastructure;Autonomous+AI+Agents;Enterprise+Architecture;Blockchain+Security" alt="Typing SVG" /> | <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=15&duration=4000&pause=1000&color=00695C&center=true&vCenter=true&width=350&lines=Software+Engineer;AI+Engineer;Cybersecurity+Engineer;Technical+Lead;Backend+Engineer" alt="Typing SVG" /> |
 
-<img src="https://img.shields.io/badge/🌱_Learning-000000?style=for-the-badge&logoColor=white" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=4000&pause=1000&color=00BFA5&center=false&vCenter=true&width=400&lines=Agentic+AI;Large+Language+Models;AI+Automation;Cloud+Architecture;Kubernetes" alt="Typing SVG" />
-<br>
-
-<img src="https://img.shields.io/badge/🔭_Exploring-000000?style=for-the-badge&logoColor=white" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=4000&pause=1000&color=00897B&center=false&vCenter=true&width=400&lines=Generative+AI;Secure+AI+Infrastructure;Autonomous+AI+Agents;Enterprise+Architecture;Blockchain+Security" alt="Typing SVG" />
-<br>
-
-<img src="https://img.shields.io/badge/💼_Open_To-000000?style=for-the-badge&logoColor=white" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=4000&pause=1000&color=00695C&center=false&vCenter=true&width=400&lines=Software+Engineer;AI+Engineer;Cybersecurity+Engineer;Technical+Lead;Backend+Engineer" alt="Typing SVG" />
+</div>
 
 ---
 
