@@ -1003,13 +1003,7 @@ Full Stack     █████████████████████�
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pranesh-fortumars&theme=transparent&layout=compact" />
 
 </div>
 
