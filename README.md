@@ -1000,31 +1000,14 @@ Full Stack     █████████████████████�
 
 ---
 
-## ⏳ WakaTime
-
 ## ⏳ Weekly Development Breakdown
 
-> Enable after connecting your WakaTime account.
+<div align="center">
 
-```text
-Python        ████████████████ 36%
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-JavaScript    ███████████ 24%
-
-React         ████████ 16%
-
-Java          ██████ 12%
-
-Solidity      ████ 8%
-
-Other         ██ 4%
-```
-
-```markdown
-<!-- Replace with your username -->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=transparent"/>
-```
+</div>
 
 ---
 
@@ -1354,43 +1337,26 @@ Create
 
 ```yaml
 name: Metrics
-
 on:
-
   schedule:
-
-    - cron: "0 */24 * * *"
-
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
-
   github-metrics:
-
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-
       - uses: lowlighter/metrics@latest
-
         with:
-
           token: ${{ secrets.GITHUB_TOKEN }}
-
           user: pranesh-fortumars
-
           template: classic
-
           base: header,activity,repositories
-
           plugin_languages: yes
-
           plugin_lines: yes
-
           plugin_isocalendar: yes
-
           plugin_followup: yes
-
           plugin_achievements: yes
 ```
 
@@ -1444,25 +1410,18 @@ Replace with
 
 ```yaml
 name: Waka Readme
-
 on:
-
   schedule:
-
-    - cron: "0 */12 * * *"
-
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
-
   update-readme:
-
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-
       - uses: athul/waka-readme@master
-
         with:
-
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 ```
 
