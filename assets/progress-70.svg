@@ -1,6 +1,6 @@
 <svg width="150" height="24" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
-  <rect width="150" height="24" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="12" />
+  <rect width="150" height="24" fill="transparent" stroke="#30363d" stroke-width="1" rx="12" />
   
   <!-- Animated Progress -->
   <rect width="0" height="24" fill="#00BFA5" rx="12">
