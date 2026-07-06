@@ -1069,66 +1069,34 @@ I'm always open to collaborating on projects involving:
 
 ---
 
-## ⏳ Career Timeline
+<details>
+<summary><b>⏳ Career Timeline</b></summary>
+<br>
 
-```text
-2022
+> **2026 • Software Development Team Lead**
+> *Fortumars AI Technologies*
+> - Leading Enterprise Software Projects
+> - Managing Development Teams
+> - AI + Cybersecurity + SaaS + Cloud
 
-Started B.E Information Science & Engineering
+> **2025 • Software Development Intern**
+> *Fortumars AI Technologies*
 
-│
+> **2024 • Deployment & Security**
+> *Shadow Fox*
 
-├──────────────
+> **2024 • Product Intern**
+> *NAS IO*
 
-2024
+> **2024 • Cybersecurity Intern**
+> *CFCS2R*
 
-Cybersecurity Intern
+> **2022 • Started B.E**
+> *Information Science & Engineering*
 
-CFCS2R
-
-↓
-
-Product Intern
-
-NAS IO
-
-↓
-
-Deployment & Security
-
-Shadow Fox
-
-│
-
-├──────────────
-
-2025
-
-Software Development Intern
-
-Fortumars AI Technologies
-
-│
-
-├──────────────
-
-2026
-
-Software Development Team Lead
-
-Fortumars AI Technologies
-
-Leading Enterprise Software Projects
-
-Managing Development Teams
-
-AI + Cybersecurity + SaaS + Cloud
-
-```
+</details>
 
 ---
-
-## 🎯 Goals 2026
 
 ## 🎯 2026 Goals
 
@@ -1153,27 +1121,15 @@ Legend:
 
 ---
 
-## 🌐 Tech Ecosystem
+<details>
+<summary><b>🌐 Tech Ecosystem</b></summary>
+<br>
 
-```text
-                    AI
-                     │
-        ┌────────────┼────────────┐
-        │            │            │
- Machine Learning  Deep Learning  Computer Vision
-        │
-        │
- Full Stack ───── Cloud ───── DevOps
-        │             │
-        │             │
- Backend      Kubernetes
-        │
-        │
- Blockchain ─── Cybersecurity
-        │
-        │
- Enterprise Software
-```
+<div align="center">
+  <img src="https://mermaid.ink/img/Z3JhcGggVEQKICAgICUlIENvbG9ycyAlJQogICAgY2xhc3NEZWYgZGVmYXVsdCBmaWxsOiMwMDY5NUMsc3Ryb2tlOiMwMDRENDAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmZmOwogICAgY2xhc3NEZWYgYWkgZmlsbDojMDBCRkE1LHN0cm9rZTojMDBCRkE1LGNvbG9yOiMwMDA7CiAgICBjbGFzc0RlZiBjbG91ZCBmaWxsOiMwMDg5N0Isc3Ryb2tlOiMwMDRENDAsY29sb3I6I2ZmZjsKICAgIGNsYXNzRGVmIGNvcmUgZmlsbDojMDBDODUzLHN0cm9rZTojMDBFNjc2LGNvbG9yOiMwMDA7CgogICAgQUkoKEFydGlmaWNpYWwgSW50ZWxsaWdlbmNlKSk6OjphaQogICAgQUkgLS0+IE1MW01hY2hpbmUgTGVhcm5pbmddOjo6YWkKICAgIEFJIC0tPiBETFtEZWVwIExlYXJuaW5nXTo6OmFpCiAgICBBSSAtLT4gQ1ZbQ29tcHV0ZXIgVmlzaW9uXTo6OmFpCiAgICAKICAgIE1MIC0tPiBGU3tGdWxsIFN0YWNrIERldmVsb3BtZW50fTo6OmNsb3VkCiAgICBGUyAtLS0gQ0xbQ2xvdWQgSW5mcmFzdHJ1Y3R1cmVdOjo6Y2xvdWQKICAgIENMIC0tLSBET1tEZXZPcHMgJiBDSS9DRF06OjpjbG91ZAogICAgRlMgLS0tIEJFW0JhY2tlbmQgRW5naW5lZXJpbmddOjo6Y2xvdWQKICAgIENMIC0tLSBLOHNbS3ViZXJuZXRlc106OjpjbG91ZAogICAgCiAgICBCRSAtLT4gQkN7QmxvY2tjaGFpbiBTb2x1dGlvbnN9Ojo6Y29yZQogICAgQkMgLS0tIENZW0N5YmVyc2VjdXJpdHldOjo6Y29yZQogICAgQkMgLS0tIEVTW0VudGVycHJpc2UgU29mdHdhcmVdOjo6Y29yZQ==" alt="Tech Ecosystem Flowchart" />
+</div>
+
+</details>
 
 ---
 
