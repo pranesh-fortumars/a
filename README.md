@@ -781,14 +781,17 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 ---
 
+<details>
+<summary>
+
 ## 📡 Current Status
+
+</summary>
 
 ```yaml
 developer:
   name: Pranesh S
-
   role: Software Development Team Lead
-
   organization: Fortumars AI Technologies and Business Solutions Pvt. Ltd.
 
   interests:
@@ -799,25 +802,20 @@ developer:
     - Cloud Computing
 
   currently_working_on:
-    - ERP Systems
-    - CRM Platforms
-    - Hiring Portal
-    - Voice Billing Application
-    - SaaS Solutions
+    - ERP Systems & CRM Platforms
+    - Voice Billing & SaaS Solutions
 
   currently_learning:
-    - Large Language Models
-    - AI Agents
+    - Large Language Models & AI Agents
     - Cloud Native Architecture
     - Advanced Kubernetes
-    - Agentic AI
 
   open_for:
-    - Software Engineering
-    - AI Engineering
-    - Cybersecurity Engineering
+    - AI & Cybersecurity Engineering
     - Technical Leadership
 ```
+
+</details>
 
 ---
 
@@ -858,46 +856,22 @@ Full Stack     █████████████████████�
 
 ## 🎯 Current Focus
 
-<div align="center">
-
 ## 🚀 Currently Building
 
-</div>
+<img src="https://img.shields.io/badge/🏗️_Building-000000?style=for-the-badge&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=4000&pause=1000&color=00C853&center=false&vCenter=true&width=400&lines=Enterprise+ERP+Systems;CRM+Platforms;Hiring+%26+ATS+Solutions;AI+Powered+Business+Apps;SaaS+Products" alt="Typing SVG" />
+<br>
 
-```yaml
-current_focus:
+<img src="https://img.shields.io/badge/🌱_Learning-000000?style=for-the-badge&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=4000&pause=1000&color=00BFA5&center=false&vCenter=true&width=400&lines=Agentic+AI;Large+Language+Models;AI+Automation;Cloud+Architecture;Kubernetes" alt="Typing SVG" />
+<br>
 
-  building:
-    - Enterprise ERP Systems
-    - CRM Platforms
-    - Hiring & ATS Solutions
-    - AI Powered Business Applications
-    - Blockchain Based Secure Platforms
-    - SaaS Products
+<img src="https://img.shields.io/badge/🔭_Exploring-000000?style=for-the-badge&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=4000&pause=1000&color=00897B&center=false&vCenter=true&width=400&lines=Generative+AI;Secure+AI+Infrastructure;Autonomous+AI+Agents;Enterprise+Architecture;Blockchain+Security" alt="Typing SVG" />
+<br>
 
-  learning:
-    - Agentic AI
-    - Large Language Models
-    - AI Automation
-    - Advanced Cloud Architecture
-    - Kubernetes
-    - Multi-Agent Systems
-
-  exploring:
-    - Generative AI
-    - Secure AI Infrastructure
-    - Autonomous AI Agents
-    - Enterprise Architecture
-    - Blockchain Security
-    - Cloud Native Development
-
-  open_to:
-    - Software Engineer
-    - AI Engineer
-    - Cybersecurity Engineer
-    - Backend Engineer
-    - Technical Lead
-```
+<img src="https://img.shields.io/badge/💼_Open_To-000000?style=for-the-badge&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=4000&pause=1000&color=00695C&center=false&vCenter=true&width=400&lines=Software+Engineer;AI+Engineer;Cybersecurity+Engineer;Technical+Lead;Backend+Engineer" alt="Typing SVG" />
 
 ---
 
