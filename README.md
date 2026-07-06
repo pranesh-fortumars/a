@@ -1019,9 +1019,6 @@ I enjoy contributing to projects related to
 
 ## 🐍 Contribution Snake
 
-> **Create the following GitHub Action in your repository to generate the animation automatically.**
-
-```markdown
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -1032,7 +1029,6 @@ I enjoy contributing to projects related to
     src="https://raw.githubusercontent.com/pranesh-fortumars/pranesh-fortumars/output/github-contribution-grid-snake.svg"
   />
 </picture>
-```
 
 </div>
 
