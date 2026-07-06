@@ -1162,34 +1162,7 @@ Other         ██ 4%
 
 ---
 
-## 📰 Latest Blog Posts
 
-## 📰 Latest Articles
-
-```markdown
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-```
-
-Supports
-
-- Hashnode
-- Medium
-- Dev.to
-- Personal RSS Feed
-
----
-
-## 📺 YouTube
-
-## 📺 Latest YouTube Videos
-
-```markdown
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-```
-
----
 
 ## 💬 Developer Quote
 
