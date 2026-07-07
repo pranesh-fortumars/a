@@ -618,6 +618,7 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 
 
 
+<!--
 ## ⏳ Weekly Development Breakdown
 
 <div align="center">
@@ -626,11 +627,10 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 <br>
 <img src="https://img.shields.io/badge/Solidity-10%25-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-5%25-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Other-3%25-8E24AA?style=for-the-badge" />
 
-> *(Live data will populate here once WakaTime tracks enough coding hours)*
-
 </div>
 
 ---
+-->
 
 
 
@@ -843,7 +843,7 @@ jobs:
 ## 🧩 Interactive Skills Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praneshs616&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranesh-fortumars&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
@@ -1211,25 +1211,17 @@ Full Stack     █████████████████████�
 
 ---
 
-## 💙 Support
+## 🤝 Connect & Support
 
 <div align="center">
-
-**Thanks for visiting my profile! If you like my work:**
-<br><br>
-<a href="https://github.com/pranesh-fortumars"><img src="https://img.shields.io/badge/⭐_Star_Repositories-00C853?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/pranesh-fortumars"><img src="https://img.shields.io/badge/🍴_Fork_Projects-00BFA5?style=for-the-badge&logo=git&logoColor=white" /></a> <a href="https://www.linkedin.com/in/pranesh-s-ps34101136/"><img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-00897B?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pranesh.se22@bitsathy.ac.in"><img src="https://img.shields.io/badge/💬_Collaborate-00695C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
----
-
-## 🏁 Footer
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00695C,50:00BFA5,100:00C853&height=120&section=footer"/>
 
 ### 💚 *Engineering Secure • Intelligent • Scalable Solutions*
+
+**Thanks for visiting my profile! Let's build the future together:**
+
+<a href="https://github.com/pranesh-fortumars"><img src="https://img.shields.io/badge/⭐_Star_Repositories-00C853?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/pranesh-fortumars"><img src="https://img.shields.io/badge/🍴_Fork_Projects-00BFA5?style=for-the-badge&logo=git&logoColor=white" /></a> <a href="https://www.linkedin.com/in/pranesh-s-ps34101136/"><img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-00897B?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pranesh.se22@bitsathy.ac.in"><img src="https://img.shields.io/badge/💬_Collaborate-00695C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00695C,50:00BFA5,100:00C853&height=120&section=footer"/>
 
 **Made with ❤️ by Pranesh S**
 
@@ -1238,21 +1230,3 @@ Full Stack     █████████████████████�
 <!-- ========================================= -->
 <!--              END OF README                -->
 <!-- ========================================= -->
-
-
-
-<div align="center">
-
-## ⭐ Thanks for visiting my GitHub Profile!
-
-### If you like my work,
-
-⭐ Star my repositories
-
-🤝 Connect on LinkedIn
-
-💻 Collaborate on exciting projects
-
-🚀 Let's build the future together!
-
-</div>
