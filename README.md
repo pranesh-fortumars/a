@@ -935,6 +935,7 @@ Full Stack     █████████████████████�
 <!--     PART 5 - PREMIUM EXTRAS & WIDGETS     -->
 <!-- ========================================= -->
 
+<!-- 
 ## 🎓 Education
 
 <div align="center">
@@ -948,31 +949,34 @@ Full Stack     █████████████████████�
 </div>
 
 ---
+-->
 
 ## 👨‍💻 Coding Profiles
 
 <div align="center">
 
-> **Update the links below with your profile URLs.**
-
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/praneshs616/">
 <img src="https://img.shields.io/badge/LeetCode-00C853?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/">
+<a href="https://www.geeksforgeeks.org/profile/praneser0n">
 <img src="https://img.shields.io/badge/GeeksforGeeks-00BFA5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/pranesh_se22">
 <img src="https://img.shields.io/badge/HackerRank-00897B?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/">
+<a href="https://codeforces.com/profile/pranesh_S_136">
 <img src="https://img.shields.io/badge/Codeforces-00695C?style=for-the-badge"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/pranesh_s_136">
 <img src="https://img.shields.io/badge/CodeChef-795548?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/@pranesh117/">
+<img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/>
 </a>
 
 </div>
@@ -1009,7 +1013,7 @@ Full Stack     █████████████████████�
 ## 🏆 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/pranesh-fortumars?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/praneshs616?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Heatmap"/>
 </div>
 
 ---
@@ -1202,8 +1206,17 @@ jobs:
 
 </details>
 
+---
 
+## 🧩 Interactive Skills Graph
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praneshs616&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+<!--
 ## 🔮 Future Additions
 
 ## 🚀 Future Integrations
@@ -1223,8 +1236,7 @@ jobs:
 - 🌐 Portfolio Live Status
 - 📈 Coding Heatmap
 - 🧩 Interactive Skills Graph
-
----
+-->
 
 
 
