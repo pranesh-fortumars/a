@@ -562,6 +562,315 @@ Enterprise Recruitment Management System developed for streamlining hiring workf
 | Digital Bastion: AI-Driven Cybersecurity and Blockchain Security Systems | AI + Cybersecurity |
 | AI in Nuclear Medicine: Automated Medicine Identification Using Artificial Intelligence | Artificial Intelligence |
 
+<!-- ========================================= -->
+<!--         PRANESH S - GITHUB PROFILE        -->
+<!--     PART 5 - PREMIUM EXTRAS & WIDGETS     -->
+<!-- ========================================= -->
+
+<!-- 
+## 🎓 Education
+
+<div align="center">
+
+## 🎓 Academic Journey
+
+| Degree | Institution | Duration | Performance |
+|:-------|:------------|:---------|:-----------:|
+| **B.E. Information Science & Engineering** | **Bannari Amman Institute of Technology** | **2022 – 2026** | **CGPA: 8.20** |
+
+</div>
+
+---
+-->
+
+## 👨‍💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/praneshs616/">
+<img src="https://img.shields.io/badge/LeetCode-00C853?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/praneser0n">
+<img src="https://img.shields.io/badge/GeeksforGeeks-00BFA5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/pranesh_se22">
+<img src="https://img.shields.io/badge/HackerRank-00897B?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/pranesh_S_136">
+<img src="https://img.shields.io/badge/Codeforces-00695C?style=for-the-badge"/>
+</a>
+
+<a href="https://www.codechef.com/users/pranesh_s_136">
+<img src="https://img.shields.io/badge/CodeChef-795548?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/@pranesh117/">
+<img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+
+
+## ⏳ Weekly Development Breakdown
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-42%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+<br>
+<img src="https://img.shields.io/badge/Solidity-10%25-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-5%25-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Other-3%25-8E24AA?style=for-the-badge" />
+
+> *(Live data will populate here once WakaTime tracks enough coding hours)*
+
+</div>
+
+---
+
+
+
+## 🌍 Contribution World Map
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00C853/pranesh-fortumars" alt="Contribution Map"/>
+</div>
+
+---
+
+## 🏆 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/praneshs616?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Heatmap"/>
+</div>
+
+---
+
+## 📚 Currently Reading
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Clean_Architecture-Robert_C._Martin-1E88E5?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Designing_Data_Intensive_Apps-Martin_Kleppmann-E53935?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/The_Pragmatic_Programmer-Andrew_Hunt-8E24AA?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Building_Microservices-Sam_Newman-FF9800?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Clean_Code-Robert_C._Martin-00E676?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-A_Modern_Approach-FF4081?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Web_App_Hackers_Handbook-Dafydd_Stuttard-3949AB?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always open to collaborating on projects involving:
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Artificial_Intelligence-FF5252?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cybersecurity-448AFF?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cloud_Native_Apps-FFB300?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Blockchain_Dev-E040FB?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SaaS_Platforms-00E676?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Startup_Products-FF4081?style=for-the-badge&logo=ycombinator&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Full_Stack_Apps-00BCD4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Research_Projects-FF7043?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
+
+---
+
+<details>
+<summary><b>💼 Professional Services</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Software_Architecture-00695C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enterprise_App_Development-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Solutions-00BFA5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Consulting-00C853?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/badge/Blockchain_Development-00E676?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Development-B9F6CA?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud_Deployment-69F0AE?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Performance_Optimization-00E676?style=for-the-badge" />
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>⏳ Career Timeline</b></summary>
+<br>
+
+> **2026 • Software Development Team Lead**
+> *Fortumars AI Technologies*
+> - Leading Enterprise Software Projects
+> - Managing Development Teams
+> - AI + Cybersecurity + SaaS + Cloud
+
+> **2025 • Software Development Intern**
+> *Fortumars AI Technologies*
+
+> **2024 • Deployment & Security**
+> *Shadow Fox*
+
+> **2024 • Product Intern**
+> *NAS IO*
+
+> **2024 • Cybersecurity Intern**
+> *CFCS2R*
+
+> **2022 • Started B.E**
+> *Information Science & Engineering*
+
+</details>
+
+---
+
+<details>
+<summary><b>🎯 2026 Goals Tracker</b></summary>
+<br>
+
+<div align="center">
+
+| 🏆 Goal | 📈 Status |
+|:---|:---:|
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Build 10+ Enterprise Applications | <img src="assets/progress-70.svg" alt="70%" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Publish AI Projects | <img src="assets/progress-40.svg" alt="40%" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Key" width="25" height="25" /> Open Source Cybersecurity Tools | <img src="assets/progress-90.svg" alt="90%" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> Launch Portfolio Platform | <img src="assets/progress-70.svg" alt="70%" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Advanced Cloud Certifications | <img src="assets/progress-15.svg" alt="15%" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Publish Technical Blogs | <img src="assets/progress-40.svg" alt="40%" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Microphone" width="25" height="25" /> Speak at Tech Conferences | <img src="assets/progress-15.svg" alt="15%" /> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Mentor Developers | <img src="assets/progress-90.svg" alt="90%" /> |
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><b>🌐 Tech Ecosystem</b></summary>
+<br>
+
+<div align="center">
+  <img src="assets/ecosystem.svg" alt="Animated Tech Ecosystem Flowchart" width="100%" />
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+## 🚀 *"Code with Purpose • Build with Passion • Secure by Design."*
+
+</div>
+
+<!-- END PART 5 -->
+
+
+<!-- 
+## ⏳ WakaTime Workflow
+
+```
+.github/workflows/waka.yml
+```
+
+```yaml
+name: Waka Readme
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+```
+-->
+
+---
+
+
+
+
+<details>
+<summary><b>🏷️ GitHub Topics & Core Skills</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-4ECDC4?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-45B7D1?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-96CEB4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FFEEAD?style=for-the-badge&logo=pytorch&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Computer_Vision-D4A5A5?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Engineering-9B59B6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-34495E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise-8E44AD?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
+</details>
+
+---
+
+## 🧩 Interactive Skills Graph
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praneshs616&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+<!--
+## 🔮 Future Additions
+
+## 🚀 Future Integrations
+
+- 🤖 AI Chat Assistant
+- 🧠 MCP Projects
+- 🛰️ Kubernetes Dashboard
+- ☁ AWS Certifications
+- 🎯 Hackathon Timeline
+- 📰 Research Publications Feed
+- 🎤 Conference Talks
+- 🏆 Awards Showcase
+- 📜 Resume Download
+- 🖼️ Interactive 3D Portfolio
+- 📦 Docker Hub Stats
+- 📊 GitHub Insights
+- 🌐 Portfolio Live Status
+- 📈 Coding Heatmap
+- 🧩 Interactive Skills Graph
+-->
+
+
 ---
 
 ## 🏅 Achievements
@@ -929,314 +1238,6 @@ Full Stack     █████████████████████�
 <!-- ========================================= -->
 <!--              END OF README                -->
 <!-- ========================================= -->
-
-<!-- ========================================= -->
-<!--         PRANESH S - GITHUB PROFILE        -->
-<!--     PART 5 - PREMIUM EXTRAS & WIDGETS     -->
-<!-- ========================================= -->
-
-<!-- 
-## 🎓 Education
-
-<div align="center">
-
-## 🎓 Academic Journey
-
-| Degree | Institution | Duration | Performance |
-|:-------|:------------|:---------|:-----------:|
-| **B.E. Information Science & Engineering** | **Bannari Amman Institute of Technology** | **2022 – 2026** | **CGPA: 8.20** |
-
-</div>
-
----
--->
-
-## 👨‍💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/praneshs616/">
-<img src="https://img.shields.io/badge/LeetCode-00C853?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/praneser0n">
-<img src="https://img.shields.io/badge/GeeksforGeeks-00BFA5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/pranesh_se22">
-<img src="https://img.shields.io/badge/HackerRank-00897B?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/pranesh_S_136">
-<img src="https://img.shields.io/badge/Codeforces-00695C?style=for-the-badge"/>
-</a>
-
-<a href="https://www.codechef.com/users/pranesh_s_136">
-<img src="https://img.shields.io/badge/CodeChef-795548?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerearth.com/@pranesh117/">
-<img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-
-
-
-## ⏳ Weekly Development Breakdown
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-42%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
-<br>
-<img src="https://img.shields.io/badge/Solidity-10%25-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-5%25-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Other-3%25-8E24AA?style=for-the-badge" />
-
-> *(Live data will populate here once WakaTime tracks enough coding hours)*
-
-</div>
-
----
-
-
-
-## 🌍 Contribution World Map
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00C853/pranesh-fortumars" alt="Contribution Map"/>
-</div>
-
----
-
-## 🏆 LeetCode Progress
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/praneshs616?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Heatmap"/>
-</div>
-
----
-
-## 📚 Currently Reading
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Clean_Architecture-Robert_C._Martin-1E88E5?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Designing_Data_Intensive_Apps-Martin_Kleppmann-E53935?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/The_Pragmatic_Programmer-Andrew_Hunt-8E24AA?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Building_Microservices-Sam_Newman-FF9800?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Clean_Code-Robert_C._Martin-00E676?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-A_Modern_Approach-FF4081?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Web_App_Hackers_Handbook-Dafydd_Stuttard-3949AB?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=000000"/>
-
-</div>
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always open to collaborating on projects involving:
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-Artificial_Intelligence-FF5252?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Cybersecurity-448AFF?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Cloud_Native_Apps-FFB300?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Blockchain_Dev-E040FB?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SaaS_Platforms-00E676?style=for-the-badge&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Startup_Products-FF4081?style=for-the-badge&logo=ycombinator&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Full_Stack_Apps-00BCD4?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Research_Projects-FF7043?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</div>
-
----
-
-<details>
-<summary><b>💼 Professional Services</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Software_Architecture-00695C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enterprise_App_Development-00897B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Solutions-00BFA5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity_Consulting-00C853?style=for-the-badge" />
-  <br>
-  <img src="https://img.shields.io/badge/Blockchain_Development-00E676?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Development-B9F6CA?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud_Deployment-69F0AE?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Performance_Optimization-00E676?style=for-the-badge" />
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>⏳ Career Timeline</b></summary>
-<br>
-
-> **2026 • Software Development Team Lead**
-> *Fortumars AI Technologies*
-> - Leading Enterprise Software Projects
-> - Managing Development Teams
-> - AI + Cybersecurity + SaaS + Cloud
-
-> **2025 • Software Development Intern**
-> *Fortumars AI Technologies*
-
-> **2024 • Deployment & Security**
-> *Shadow Fox*
-
-> **2024 • Product Intern**
-> *NAS IO*
-
-> **2024 • Cybersecurity Intern**
-> *CFCS2R*
-
-> **2022 • Started B.E**
-> *Information Science & Engineering*
-
-</details>
-
----
-
-<details>
-<summary><b>🎯 2026 Goals Tracker</b></summary>
-<br>
-
-<div align="center">
-
-| 🏆 Goal | 📈 Status |
-|:---|:---:|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Build 10+ Enterprise Applications | <img src="assets/progress-70.svg" alt="70%" /> |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Publish AI Projects | <img src="assets/progress-40.svg" alt="40%" /> |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Key" width="25" height="25" /> Open Source Cybersecurity Tools | <img src="assets/progress-90.svg" alt="90%" /> |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> Launch Portfolio Platform | <img src="assets/progress-70.svg" alt="70%" /> |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Advanced Cloud Certifications | <img src="assets/progress-15.svg" alt="15%" /> |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Publish Technical Blogs | <img src="assets/progress-40.svg" alt="40%" /> |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Microphone" width="25" height="25" /> Speak at Tech Conferences | <img src="assets/progress-15.svg" alt="15%" /> |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Mentor Developers | <img src="assets/progress-90.svg" alt="90%" /> |
-
-</div>
-</details>
-
----
-
-<details>
-<summary><b>🌐 Tech Ecosystem</b></summary>
-<br>
-
-<div align="center">
-  <img src="assets/ecosystem.svg" alt="Animated Tech Ecosystem Flowchart" width="100%" />
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-## 🚀 *"Code with Purpose • Build with Passion • Secure by Design."*
-
-</div>
-
-<!-- END PART 5 -->
-
-
-<!-- 
-## ⏳ WakaTime Workflow
-
-```
-.github/workflows/waka.yml
-```
-
-```yaml
-name: Waka Readme
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-```
--->
-
----
-
-
-
-
-<details>
-<summary><b>🏷️ GitHub Topics & Core Skills</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-4ECDC4?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-45B7D1?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-96CEB4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FFEEAD?style=for-the-badge&logo=pytorch&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/Computer_Vision-D4A5A5?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software_Engineering-9B59B6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack-34495E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Enterprise-8E44AD?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
-
-</details>
-
----
-
-## 🧩 Interactive Skills Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praneshs616&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-<!--
-## 🔮 Future Additions
-
-## 🚀 Future Integrations
-
-- 🤖 AI Chat Assistant
-- 🧠 MCP Projects
-- 🛰️ Kubernetes Dashboard
-- ☁ AWS Certifications
-- 🎯 Hackathon Timeline
-- 📰 Research Publications Feed
-- 🎤 Conference Talks
-- 🏆 Awards Showcase
-- 📜 Resume Download
-- 🖼️ Interactive 3D Portfolio
-- 📦 Docker Hub Stats
-- 📊 GitHub Insights
-- 🌐 Portfolio Live Status
-- 📈 Coding Heatmap
-- 🧩 Interactive Skills Graph
--->
 
 
 
