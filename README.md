@@ -843,7 +843,7 @@ jobs:
 ## 🧩 Interactive Skills Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praneshs616&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praneshs616&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
