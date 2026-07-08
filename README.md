@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:00C853,40:00BFA5,100:00695C&text=PRANESH%20S&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Software%20Development%20Lead%20%7C%20Cybersecurity%20Engineer%20%7C%20AI%20Developer&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=280&color=000000&text=PRANESH%20S&fontColor=00FF41&fontSize=80&animation=twinkling&desc=Cybersecurity%20Engineer%20%7C%20AI%20Developer%20%7C%20Team%20Lead&descAlignY=70&descSize=22&descColor=00FF41"/>
 
 </div>
 
