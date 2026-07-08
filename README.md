@@ -7,6 +7,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=280&color=000000&text=PRANESH%20S&fontColor=00FF41&fontSize=80&animation=twinkling&desc=Cybersecurity%20Engineer%20%7C%20AI%20Developer%20%7C%20Team%20Lead&descAlignY=70&descSize=22&descColor=00FF41"/>
 
+<br>
+
+<marquee scrollamount="12" direction="left" width="80%">
+  <img src="https://komarev.com/ghpvc/?username=pranesh-fortumars&color=00FF41&style=for-the-badge&label=SYSTEM+ACCESSES" alt="Profile Views" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/pranesh-fortumars?style=for-the-badge&color=000000&labelColor=00FF41&logo=github&logoColor=00FF41" alt="Followers" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/pranesh-fortumars?style=for-the-badge&color=000000&labelColor=00FF41&logo=github&logoColor=00FF41" alt="Stars" />
+</marquee>
+
 </div>
 
 ---
@@ -15,7 +23,9 @@
 
 ## 👤 Who Am I
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=800&color=00C853&center=true&vCenter=true&width=900&lines=%24+whoami;Software+Development+Team+Lead;Cybersecurity+%7C+AI+%7C+Blockchain+Engineer;Building+Secure+and+Scalable+Enterprise+Applications;Always+Learning+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;Software+Development+Team+Lead;Cybersecurity+%7C+AI+%7C+Blockchain+Engineer;Building+Secure+and+Scalable+Enterprise+Applications;System+Online...+%F0%9F%94%92"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranesh-fortumars&bg_color=000000&color=00FF41&line=00FF41&point=000000&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
