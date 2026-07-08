@@ -843,7 +843,7 @@ jobs:
 ## 🧩 Interactive Skills Graph
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=pranesh-fortumars&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranesh-fortumars&theme=react" alt="Interactive Skills Graph" />
 </div>
 
 ---
