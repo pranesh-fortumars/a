@@ -19,7 +19,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;Software+Development+Team+Lead;Cybersecurity+%7C+AI+%7C+Blockchain+Engineer;Building+Secure+and+Scalable+Enterprise+Applications;System+Online...+%F0%9F%94%92"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-fortumars&theme=dark&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranesh-fortumars&bg_color=000000&color=00FF41&line=00FF41&point=000000&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
