@@ -19,7 +19,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;Software+Development+Team+Lead;Cybersecurity+%7C+AI+%7C+Blockchain+Engineer;Building+Secure+and+Scalable+Enterprise+Applications;System+Online...+%F0%9F%94%92"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranesh-fortumars&bg_color=000000&color=00FF41&line=00FF41&point=000000&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranesh-fortumars&theme=react&utcOffset=5" alt="Productive Time Histogram" />
 
 </div>
 
